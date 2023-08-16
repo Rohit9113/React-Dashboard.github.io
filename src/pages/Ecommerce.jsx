@@ -1,6 +1,6 @@
 import React from 'react';
 // import { BsCurrencyDollar } from 'react-icons/bs';
-import { GoPrimitiveDot } from 'react-icons/go';
+// import { GoPrimitiveDot } from 'react-icons/go';
 // import { IoIosMore } from 'react-icons/io';
 // import { DropDownListComponent } from '@syncfusion/ej2-react-dropdowns';
 
@@ -52,11 +52,11 @@ const Ecommerce = () => {
           <p className='font-semibold text-xl'>Revenue Updates</p>
           <div className='flex items-center gap-4'>
             <p className='flex items-center gap-2 text-gray-600 hover:drop-shadow-xl'>
-              <span><GoPrimitiveDot /></span>
+              {/* <span><GoPrimitiveDot /></span> */}
               <span>Expense</span>
             </p> 
             <p className='flex items-center gap-2 text-green-400 hover:drop-shadow-xl'>
-              <span><GoPrimitiveDot /></span>
+              {/* <span><GoPrimitiveDot /></span> */}
               <span>Budget</span>
             </p>
           </div>
