@@ -1,12 +1,12 @@
 # React Admin Dashboard Application
 
-## About the Project 📚
+## About the Project
 
 The "Admin Dashboard App" is a web-based application designed to empower business owners with efficient management tools. This comprehensive dashboard enables business owners to seamlessly handle various aspects of their operations, including cash flow, inventory management, sales tracking, and customer interactions. Additionally, the application provides valuable insights into market trends and business performance, presented through three different charts for clear visualization.
 
 This project aims to simplify and streamline the daily tasks of business owners, allowing them to make informed decisions based on real-time data and trends.
 
-## Technologies Used ☕️ ⚛️
+## Technologies Used ⚛️
 
 The project utilizes the following technologies:
 
@@ -49,7 +49,3 @@ Contributions are welcome! If you'd like to contribute to the project, please fo
 ## License 📜
 
 This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
-
----
-
-Designed and developed with ❤️ by [Your Name](https://your-website.com)
