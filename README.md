@@ -19,7 +19,7 @@ The project utilizes the following technologies:
 To set up and run the project locally, follow these steps:
 
 1. Make sure you have Node.js installed on your machine.
-2. Clone the repository: `git clone [https://github.com/your-username/your-repo.git](https://github.com/Rohit9113/React-Dashboard.github.io/tree/main)`
+2. Clone the repository: `git clone https://github.com/Rohit9113/React-Dashboard.github.io/tree/main`
 3. Navigate to the project directory: `cd your-repo`
 4. Install project dependencies: `npm install`
 5. Start the development server: `npm start`
