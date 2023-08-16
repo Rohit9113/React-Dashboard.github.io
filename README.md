@@ -1,7 +1,5 @@
 # React Admin Dashboard Application
 
-![Project Banner](project-banner-image.jpg) <!-- Replace with an actual banner image if available -->
-
 ## About the Project 📚
 
 The "Admin Dashboard App" is a web-based application designed to empower business owners with efficient management tools. This comprehensive dashboard enables business owners to seamlessly handle various aspects of their operations, including cash flow, inventory management, sales tracking, and customer interactions. Additionally, the application provides valuable insights into market trends and business performance, presented through three different charts for clear visualization.
@@ -29,13 +27,6 @@ To set up and run the project locally, follow these steps:
 ## Project Status 📶
 
 The project has been completed and is fully functional. Users can access the Admin Dashboard Application through the following link: [https://react-dashboard-vgn8.onrender.com](https://react-dashboard-vgn8.onrender.com)
-
-## Screenshots 📷
-
-<!-- Add some screenshots of your application in action -->
-![Screenshot 1](screenshots/screenshot-1.jpg)
-![Screenshot 2](screenshots/screenshot-2.jpg)
-![Screenshot 3](screenshots/screenshot-3.jpg)
 
 ## Features and Functionality ✨
 
